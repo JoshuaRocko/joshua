@@ -1,0 +1,88 @@
+
+.header {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 300px;
+  margin: 2%;
+}
+
+.header-photo{
+  width: 295px;
+  float: left;
+}
+
+
+.header-info{
+  text-align: center;
+}
+
+.biografia{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: auto;
+  margin: 2%;
+}
+
+.biografia-parrafo{
+  margin: 10px;
+}
+
+.academica{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: auto;
+  margin: 2%;
+}
+
+.academica-info{
+  display: flex;
+}
+
+.academica-lista{
+  width: 50%;
+}
+
+.academica-img{
+  width: 500px;
+  height: auto;
+  margin: 0% auto;
+}
+
+.laboral{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: auto;
+  margin: 2%;
+}
+
+.laboral-info{
+  display: flex;
+}
+
+.laboral-info-parrafo{
+  width: 50%;
+  margin: 10px;
+}
+
+.laboral-info-img{
+  width: 300px;
+  height: auto;
+  margin: 0% auto;
+}
+
+.intereses{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: auto;
+  margin: 2%;
+}
+
+.hobbies{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: auto;
+  margin: 2%;
+}
+
+.card-im{
+  width: 260px;
+  height: auto;
+}
+
+.icono{
+  font-size: 45px;
+}
